@@ -1,0 +1,15 @@
+.reviewText::after {
+  content: "";
+  position: absolute;
+  right: 20px;
+  bottom: 34%;
+  display: inline-block;
+  width: 38px;
+  height: 38px;
+  margin-right: 8px;
+  background-image: url("/images/icons/qq.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+}
